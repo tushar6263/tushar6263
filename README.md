@@ -8,7 +8,7 @@ A passionate MERN stack developer from Indore.
 
 
 
-### Languages and Tools(frameworks/libraries):
+### skills and technologies :
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -34,9 +34,6 @@ A passionate MERN stack developer from Indore.
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar6263&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
-
----
-
+## 🔗 Let's Connect!
+- 📧 Email: (mailto: developertusharpatel@gmail.com)  
 
