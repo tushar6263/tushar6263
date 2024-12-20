@@ -43,9 +43,3 @@ A passionate MERN stack developer from Indore.
 ---
 
 
-**tushar6263 (Tushar Patel)**   
-7 Public Repos  
-Joined GitHub 3 years ago  
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=tushar6263&theme=minimal)
-
----
