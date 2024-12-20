@@ -27,13 +27,6 @@ A passionate MERN stack developer from Indore.
 
 
 
-
-## GitHub Stats:
-![Tushar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tushar6263&show_icons=true&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar6263&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## 🔗 Let's Connect!
 - 📧 Email: (mailto: developertusharpatel@gmail.com)  
 
@@ -42,5 +35,9 @@ A passionate MERN stack developer from Indore.
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tushar6263&theme=default)
 
 ---
+## GitHub Stats:
+![Tushar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tushar6263&show_icons=true&theme=radical)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar6263&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
