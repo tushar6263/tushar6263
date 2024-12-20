@@ -42,24 +42,10 @@ A passionate MERN stack developer from Indore.
 
 ---
 
-# 📈 GitHub Stats
 
-| **Metric**          | **Count** |
-|----------------------|-----------|
-| Total Stars Earned  | 4         |
-| Total Commits (2024) | 11        |
-| Total PRs           | 6         |
-| Total Issues        | 2         |
-| Contributed to (last year) | 2   |
-
----
-
-**lalitpatel11 (Lalit Patel)**  
-14 Contributions in 2024  
-16 Public Repos  
-Joined GitHub 5 years ago  
-✉️ [patellalit626@gmail.com](mailto:patellalit626@gmail.com)
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=lalitpatel11&theme=minimal)
+**tushar6263 (Tushar Patel)**   
+7 Public Repos  
+Joined GitHub 3 years ago  
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=tushar6263&theme=minimal)
 
 ---
