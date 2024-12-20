@@ -38,7 +38,7 @@ A passionate MERN stack developer from Indore.
 
 # 📊 GitHub Profile Summary Card
 
-![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lalitpatel11&theme=default)
+![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tushar6263&theme=default)
 
 ---
 
