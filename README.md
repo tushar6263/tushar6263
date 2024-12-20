@@ -21,7 +21,6 @@ A passionate MERN stack developer from Indore.
 [![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white)](https://expressjs.com/)
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 
@@ -37,3 +36,30 @@ A passionate MERN stack developer from Indore.
 ## 🔗 Let's Connect!
 - 📧 Email: (mailto: developertusharpatel@gmail.com)  
 
+# 📊 GitHub Profile Summary Card
+
+![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lalitpatel11&theme=default)
+
+---
+
+# 📈 GitHub Stats
+
+| **Metric**          | **Count** |
+|----------------------|-----------|
+| Total Stars Earned  | 4         |
+| Total Commits (2024) | 11        |
+| Total PRs           | 6         |
+| Total Issues        | 2         |
+| Contributed to (last year) | 2   |
+
+---
+
+**lalitpatel11 (Lalit Patel)**  
+14 Contributions in 2024  
+16 Public Repos  
+Joined GitHub 5 years ago  
+✉️ [patellalit626@gmail.com](mailto:patellalit626@gmail.com)
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=lalitpatel11&theme=minimal)
+
+---
