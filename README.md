@@ -22,7 +22,8 @@ A passionate MERN stack developer from Indore.
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-
+![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 
 
 
