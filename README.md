@@ -1,5 +1,5 @@
 # Hi 👋, I'm Tushar Patel
-A passionate MERN stack developer from Indore.
+"Crafting seamless web solutions with the power of the MERN stack."
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tusharpatel626346/)
