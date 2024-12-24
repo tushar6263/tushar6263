@@ -3,7 +3,6 @@
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tusharpatel626346/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/tushar626346/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/_tusharpatel___/)
 
 
